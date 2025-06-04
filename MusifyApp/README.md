@@ -77,13 +77,19 @@ cd Jetpack-Composer
 
 ---
 
-## 📸 Screenshots *(optional)*
+## 📸 Screenshots
 
-| Onboarding | Home | Play Song |
-|------------|------|-----------|
-| ![screen1](assets/onboarding.png) | ![screen2](assets/home.png) | ![screen3](assets/play.png) |
+| Splash Screen | Start Screen | Register Screen |
+|---------------|--------------|-----------------|
+| ![Splash](assets/splash.png) | ![Start](assets/start.png) | ![Register](assets/register.png) |
 
----
+| Login Screen | Home Screen | Music Loading |
+|--------------|-------------|----------------|
+| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Loading](assets/loading.png) |
+
+| Play Song |
+|-----------|
+| ![Play](assets/play.png) |
 
 ## ✍️ Usage Guide
 
