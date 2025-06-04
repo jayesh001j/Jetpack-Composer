@@ -94,7 +94,7 @@ cd Jetpack-Composer
 </p>
 
 ### 🟢 Play Song Screen
-<p align="start">
+<p align="Start">
   <img src="https://github.com/user-attachments/assets/d13e76e0-2948-46bc-89ef-b8bc79b2b881" width="30%" style="margin-right: 10px;" />
 </p>
 
