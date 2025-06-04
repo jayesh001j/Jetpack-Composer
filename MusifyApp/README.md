@@ -95,7 +95,7 @@ cd Jetpack-Composer
 
 ### 🟢 Play Song Screen
 <p align="Start">
-  <img src="https://github.com/user-attachments/assets/6f020fba-f54e-4b11-9f5f-4f62f28da3af" width="30%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/6f020fba-f54e-4b11-9f5f-4f62f28da3af" width="30%" style="margin-right: 20px;" />
 </p>
 
 
