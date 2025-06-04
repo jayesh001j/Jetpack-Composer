@@ -79,43 +79,24 @@ cd Jetpack-Composer
 
 ## 📸 Screenshots
 
-| Splash Screen | Start Screen | Register Screen |
-|---------------|--------------|-----------------|
-| ![Splash](assets/splash.png) | ![Start](assets/start.png) | ![Register](assets/register.png) |
-
-| Login Screen | Home Screen | Music Loading |
-|--------------|-------------|----------------|
-| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Loading](assets/loading.png) |
-
-| Play Song |
-|-----------|
-| ![Play](assets/play.png) |
-
-<p align="start">
-    | Splash Screen | Start Screen | Register Screen |
-|---------------|--------------|-----------------|
-  <img src="https://github.com/user-attachments/assets/31d0dcbd-003c-4742-ad75-53fc4a9314c5" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/d13e76e0-2948-46bc-89ef-b8bc79b2b881" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/0723c522-73d8-427b-b5a0-97ee848ab8cf" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/77123b85-aee6-41e0-bf5f-f9e97b1a4b37" width="22%">
+### 🟣 Splash, Start & Register Screens
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31d0dcbd-003c-4742-ad75-53fc4a9314c5" width="30%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/d13e76e0-2948-46bc-89ef-b8bc79b2b881" width="30%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/0723c522-73d8-427b-b5a0-97ee848ab8cf" width="30%" />
 </p>
 
-<p align="start">
-    | Login Screen | Home Screen | Music Loading |
-|--------------|-------------|----------------|
-  <img src="https://github.com/user-attachments/assets/31d0dcbd-003c-4742-ad75-53fc4a9314c5" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/d13e76e0-2948-46bc-89ef-b8bc79b2b881" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/0723c522-73d8-427b-b5a0-97ee848ab8cf" width="22%" style="margin-right: 2%;">
-  <img src="https://github.com/user-attachments/assets/77123b85-aee6-41e0-bf5f-f9e97b1a4b37" width="22%">
+### 🔵 Login, Home & Music Loading Screens
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31d0dcbd-003c-4742-ad75-53fc4a9314c5" width="30%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/d13e76e0-2948-46bc-89ef-b8bc79b2b881" width="30%" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/0723c522-73d8-427b-b5a0-97ee848ab8cf" width="30%" />
 </p>
 
-<p align="start">
-    | Play Song |
-|-----------|
-  <img src="https://github.com/user-attachments/assets/77123b85-aee6-41e0-bf5f-f9e97b1a4b37" width="22%">
+### 🟢 Play Song Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/77123b85-aee6-41e0-bf5f-f9e97b1a4b37" width="30%" />
 </p>
-
-
 
 
 ## ✍️ Usage Guide
