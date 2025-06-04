@@ -137,7 +137,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 - GitHub: [jayesh001j](https://github.com/jayesh001j)
 - LinkedIn: [Jayesh Parmar](https://linkedin.com/in/your-link) *(add yours)*
-- YouTube: [CodeWithFK](https://youtube.com/@codewithfk)
 
 ---
 
