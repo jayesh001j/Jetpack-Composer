@@ -136,7 +136,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 📬 Connect with Me
 
 - GitHub: [jayesh001j](https://github.com/jayesh001j)
-- LinkedIn: [Jayesh Parmar](https://linkedin.com/in/your-link) *(add yours)*
+- LinkedIn: [Jayesh Parmar]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/jayesh-parmar-1751b72a4/)) *(add yours)*
 
 ---
 
